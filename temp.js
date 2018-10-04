@@ -17,7 +17,6 @@ const funcList = [
     "onInitFilters"
 ];
 
-// const PARENT_PATH = p.join(["D:", "ECOUNTCollection", "ECERP", "01 Master-SALE150924", "80 Contents", "WebResource", "Contents", "js", "widget_base_new"]);
 const PARENT_PATH = p.join("C:", "Users", "fried", "Downloads" ,"replace");
 const DEFAULT_PARENT = "ecount.control";
 
